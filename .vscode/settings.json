@@ -45,7 +45,7 @@
     "html.format.indentInnerHtml": false,
     "html.format.maxPreserveNewLines": null,
     "html.format.preserveNewLines": true,
-    "html.format.wrapLineLength": 0,
+    "html.format.wrapLineLength": 120,
     "html.format.wrapAttributes": "auto",
 
     "beautify.language": {
